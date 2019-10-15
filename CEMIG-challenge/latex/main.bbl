@@ -1,0 +1,74 @@
+\begin{thebibliography}{10}
+
+\bibitem{dubrofsky2009homography}
+Elan Dubrofsky.
+\newblock Homography estimation.
+\newblock {\em Diplomov{\'a} pr{\'a}ce. Vancouver: Univerzita Britsk{\'e}
+  Kolumbie}, 2009.
+
+\bibitem{lowe2004distinctive}
+David~G Lowe.
+\newblock Distinctive image features from scale-invariant keypoints.
+\newblock {\em International journal of computer vision}, 60(2):91--110, 2004.
+
+\bibitem{bay2006surf}
+Herbert Bay, Tinne Tuytelaars, and Luc Van~Gool.
+\newblock Surf: Speeded up robust features.
+\newblock In {\em European conference on computer vision}, pages 404--417.
+  Springer, 2006.
+
+\bibitem{zhang1998determining}
+Zhengyou Zhang.
+\newblock Determining the epipolar geometry and its uncertainty: A review.
+\newblock {\em International journal of computer vision}, 27(2):161--195, 1998.
+
+\bibitem{luong1993determining}
+Quang-Tuan Luong, Rachid Deriche, Olivier Faugeras, and Theodore Papadopoulo.
+\newblock On determining the fundamental matrix: Analysis of different methods
+  and experimental results.
+\newblock 1993.
+
+\bibitem{hartley2004multiple}
+R.~I. Hartley and A.~Zisserman.
+\newblock {\em Multiple View Geometry in Computer Vision}.
+\newblock Cambridge University Press, ISBN: 0521540518, second edition, 2004.
+
+\bibitem{seber2012linear}
+George~AF Seber and Alan~J Lee.
+\newblock {\em Linear regression analysis}, volume 329.
+\newblock John Wiley \& Sons, 2012.
+
+\bibitem{borchani2015survey}
+Hanen Borchani, Gherardo Varando, Concha Bielza, and Pedro Larra{\~n}aga.
+\newblock A survey on multi-output regression.
+\newblock {\em Wiley Interdisciplinary Reviews: Data Mining and Knowledge
+  Discovery}, 5(5):216--233, 2015.
+
+\bibitem{correia2016oblique}
+Artur Jordao~Lima Correia and William~Robson Schwartz.
+\newblock Oblique random forest based on partial least squares applied to
+  pedestrian detection.
+\newblock In {\em 2016 IEEE International Conference on Image Processing
+  (ICIP)}, pages 2931--2935. IEEE, 2016.
+
+\bibitem{liu2016multispectral}
+Jingjing Liu, Shaoting Zhang, Shu Wang, and Dimitris~N Metaxas.
+\newblock Multispectral deep neural networks for pedestrian detection.
+\newblock {\em arXiv preprint arXiv:1611.02644}, 2016.
+
+\bibitem{breiman2001random}
+Leo Breiman.
+\newblock Random forests.
+\newblock {\em Machine learning}, 45(1):5--32, 2001.
+
+\bibitem{breiman1996bagging}
+Leo Breiman.
+\newblock Bagging predictors.
+\newblock {\em Machine learning}, 24(2):123--140, 1996.
+
+\bibitem{detone2016deep}
+Daniel DeTone, Tomasz Malisiewicz, and Andrew Rabinovich.
+\newblock Deep image homography estimation.
+\newblock {\em arXiv preprint arXiv:1606.03798}, 2016.
+
+\end{thebibliography}
